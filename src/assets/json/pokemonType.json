@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "type": "rock",
+    "color": "#945151"
+  },
+  {
+    "id": 2,
+    "type": "ghost",
+    "color": "#f7f7f7"
+  },
+  {
+    "id": 3,
+    "type": "electric",
+    "color": "#ffffa1"
+  },
+  {
+    "id": 4,
+    "type": "bug",
+    "color": "#F6D6A7"
+  },
+  {
+    "id": 5,
+    "type": "poison",
+    "color": "#e0a7f6"
+  },
+  {
+    "id": 6,
+    "type": "normal",
+    "color": "#F4F4F4"
+  },
+  {
+    "id": 7,
+    "type": "fairy",
+    "color": "#ffc0cbdc"
+  },
+  {
+    "id": 8,
+    "type": "fire",
+    "color": "#FBE3DF"
+  },
+  {
+    "id": 9,
+    "type": "grass",
+    "color": "#E2F9E1"
+  },
+  {
+    "id": 10,
+    "type": "water",
+    "color": "#E0F1FD"
+  }
+]
